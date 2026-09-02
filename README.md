@@ -12,9 +12,6 @@ A collection of preliminary activities and outputs showcasing skills in digital 
   - [Activity 2 Contents](#activity-2-contents)
 - [Activity 3 – Infographic & Project Documentation](#activity-3--infographic--project-documentation)
   - [Activity 3 Contents](#activity-3-contents)
-- [Repository Structure](#repository-structure)
-- [Purpose](#purpose)
-- [Author](#author)
 
 ---
 
