@@ -21,9 +21,11 @@ A collection of preliminary activities and outputs showcasing skills in digital 
 
 This activity focuses on creating a promotional poster using Canva for a hypothetical event featuring free coffee. The poster demonstrates the use of visual design, layout, typography, colors, and promotional elements to effectively communicate event information.
 
-#### Activity 1 Contents
+### Activity 1 Output
 
-- [Activity 1 – Canva Poster](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)
+[![Activity 1 – Canva Poster](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)
+
+**[View Activity 1 – Canva Poster](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)**
 
 ---
 
@@ -46,6 +48,30 @@ The personal branding kit includes:
 - [Personal Branding – 3](./activity%202/3.png)
 - [Personal Branding – 4](./activity%202/4.png)
 
+#### Personal Branding – 1
+
+[![Personal Branding 1](./activity%202/1.png)](./activity%202/1.png)
+
+**[View Image 1](./activity%202/1.png)**
+
+#### Personal Branding – 2
+
+[![Personal Branding 2](./activity%202/2.png)](./activity%202/2.png)
+
+**[View Image 2](./activity%202/2.png)**
+
+#### Personal Branding – 3
+
+[![Personal Branding 3](./activity%202/3.png)](./activity%202/3.png)
+
+**[View Image 3](./activity%202/3.png)**
+
+#### Personal Branding – 4
+
+[![Personal Branding 4](./activity%202/4.png)](./activity%202/4.png)
+
+**[View Image 4](./activity%202/4.png)**
+
 ---
 
 ### Activity 3 – Infographic & Project Documentation
@@ -54,15 +80,18 @@ This activity focuses on identifying a real-world problem and communicating it t
 
 #### Activity 3 Contents
 
-- [One-Page Infographic](./activity%203/Infographic_ESTOESTA.png)
-- [Project Documentation Report](./activity%203/Project%20Documentation_ESTOESTA.pdf)
+This activity focuses on identifying a real-world problem and communicating it through visual information while proposing a technology-enabled solution.
 
-#### Outputs
-
-One-Page Infographic
+### One-Page Infographic
 
 A visually engaging infographic that presents and simplifies a real-world problem using relevant information, data, and visual elements.
 
-Project Documentation Report
+[![One-Page Infographic](./activity%203/Infographic_ESTOESTA.png)](./activity%203/Infographic_ESTOESTA.png)
+
+**[View One-Page Infographic](./activity%203/Infographic_ESTOESTA.png)**
+
+### Project Documentation Report
 
 A short report proposing an IT- or technology-enabled solution to address the identified problem.
+
+**[View Project Documentation Report](./activity%203/Project%20Documentation_ESTOESTA.pdf)**
