@@ -21,11 +21,11 @@ This activity focuses on applying **presentation and visual design principles** 
 
 **File:** `ACTIVITY1GE4120_ESTOESTA.png`
 
-![Activity 1 Poster](activity%201/ACTIVITY1GE4120_ESTOESTA.png)
+![Activity 1 Poster](Activity%201/ACTIVITY1GE4120_ESTOESTA.png)
 
 ### 📂 File
 
-[View ACTIVITY1GE4120_ESTOESTA.png](activity%201/ACTIVITY1GE4120_ESTOESTA.png)
+[View ACTIVITY1GE4120_ESTOESTA.png](Activity%201/ACTIVITY1GE4120_ESTOESTA.png)
 
 ---
 
