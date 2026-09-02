@@ -47,27 +47,27 @@ The personal branding kit contains:
 
 #### 1. Personal Branding Design
 
-![Activity 2 - 1](activity%202/1.png)
+![Activity 2 - 1](Activity%202/1.png)
 
-[View 1.png](activity%202/1.png)
+[View 1.png](Activity%202/1.png)
 
 #### 2. Personal Branding Design
 
-![Activity 2 - 2](activity%202/2.png)
+![Activity 2 - 2](Activity%202/2.png)
 
-[View 2.png](activity%202/2.png)
+[View 2.png](Activity%202/2.png)
 
 #### 3. Personal Branding Design
 
-![Activity 2 - 3](activity%202/3.png)
+![Activity 2 - 3](Activity%202/3.png)
 
-[View 3.png](activity%202/3.png)
+[View 3.png](Activity%202/3.png)
 
 #### 4. Personal Branding Design
 
-![Activity 2 - 4](activity%202/4.png)
+![Activity 2 - 4](Activity%202/4.png)
 
-[View 4.png](activity%202/4.png)
+[View 4.png](Activity%202/4.png)
 
 ---
 
