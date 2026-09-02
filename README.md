@@ -1,46 +1,40 @@
 # PRELIMS ESTOESTA
 
-## 📖 Description
-
-This repository contains my **Prelims activities for GE 4120**, showcasing different creative and technology-related outputs involving visual design, personal branding, social media infographics, and project documentation.
-
-The repository is organized into three activities:
-
-- **Activity 1 – Presentation Design Principle:** A poster created using Canva for a hypothetical event featuring free coffee.
-- **Activity 2 – Color Palette and Typography:** A complete personal branding kit consisting of a personal logo, tagline, color palette, typography set, and resume header.
-- **Activity 3 – Social Media Infographics and Mini Project Documentation:** A one-page infographic that presents and simplifies a real-world problem using relevant information, data, and visual elements, accompanied by a short project documentation report proposing an IT- or technology-enabled solution.
+A collection of preliminary activities and outputs showcasing skills in digital design, personal branding, visual communication, and technology-based problem solving.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [🎨 Activity 1 – Presentation Design Principle](#-activity-1--presentation-design-principle)
-- [🎨 Activity 2 – Color Palette and Typography](#-activity-2--color-palette-and-typography)
-- [📱 Activity 3 – Social Media Infographics and Mini Project Documentation](#-activity-3--social-media-infographics-and-mini-project-documentation)
-
----
-
-# 🎨 Activity 1 – Presentation Design Principle
-
-### Description
-
-A poster created using **Canva** for a hypothetical event that offers **free coffee**. This activity focuses on applying presentation design principles to create an attractive, engaging, and visually appealing poster.
-
-### 📁 File
-
-[📄 ACTIVITY 1 - GE 4120_ESTOESTA.png](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)
-
-### 🖼️ Preview
-
-<img src="./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png" alt="ACTIVITY 1 - GE 4120_ESTOESTA" width="700">
+- [Activity 1 – Canva Poster](#activity-1--canva-poster)
+  - [Activity 1 Contents](#activity-1-contents)
+- [Activity 2 – Personal Branding Kit](#activity-2--personal-branding-kit)
+  - [Activity 2 Contents](#activity-2-contents)
+- [Activity 3 – Infographic & Project Documentation](#activity-3--infographic--project-documentation)
+  - [Activity 3 Contents](#activity-3-contents)
+- [Repository Structure](#repository-structure)
+- [Purpose](#purpose)
+- [Author](#author)
 
 ---
 
-# 🎨 Activity 2 – Color Palette and Typography
+## Activities
 
-### Description
+### Activity 1 – Canva Poster
 
-A **complete personal branding kit** designed to establish a consistent personal visual identity. The branding kit includes the following:
+This activity focuses on **creating a promotional poster using Canva** for a hypothetical event featuring **free coffee**. The poster demonstrates the use of visual design, layout, typography, colors, and promotional elements to effectively communicate event information.
+
+#### Activity 1 Contents
+
+- [Activity 1 – Canva Poster](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)
+
+---
+
+### Activity 2 – Personal Branding Kit
+
+This activity focuses on creating a **complete personal branding kit that establishes a consistent and professional visual identity.
+
+The personal branding kit includes:
 
 - Personal Logo
 - Tagline
@@ -48,76 +42,20 @@ A **complete personal branding kit** designed to establish a consistent personal
 - Typography Set
 - Resume Header
 
-### 📁 Files
+#### Activity 2 Contents
 
-| File | Preview |
-|---|---|
-| [1.png](./activity%202/1.png) | [View Image](./activity%202/1.png) |
-| [2.png](./activity%202/2.png) | [View Image](./activity%202/2.png) |
-| [3.png](./activity%202/3.png) | [View Image](./activity%202/3.png) |
-| [4.png](./activity%202/4.png) | [View Image](./activity%202/4.png) |
-
-### 🖼️ 1.png
-
-<img src="./activity%202/1.png" alt="1.png" width="700">
-
-### 🖼️ 2.png
-
-<img src="./activity%202/2.png" alt="2.png" width="700">
-
-### 🖼️ 3.png
-
-<img src="./activity%202/3.png" alt="3.png" width="700">
-
-### 🖼️ 4.png
-
-<img src="./activity%202/4.png" alt="4.png" width="700">
+- [Personal Branding – 1](./activity%202/1.png)
+- [Personal Branding – 2](./activity%202/2.png)
+- [Personal Branding – 3](./activity%202/3.png)
+- [Personal Branding – 4](./activity%202/4.png)
 
 ---
 
-# 📱 Activity 3 – Social Media Infographics and Mini Project Documentation
+### Activity 3 – Infographic & Project Documentation
 
-### Description
+This activity focuses on identifying a real-world problem and communicating it through visual information while proposing a technology-enabled solution.
 
-This activity consists of two main outputs:
+#### Activity 3 Contents
 
-**One-Page Infographic** – A visually engaging infographic that presents and simplifies a real-world problem using relevant information, data, and visual elements.
-
-**Project Documentation Report** – A short report proposing an IT- or technology-enabled solution to address the identified problem.
-
-### 📁 Files
-
-| File | Description |
-|---|---|
-| [Infographic_ESTOESTA.png](./activity%203/Infographic_ESTOESTA.png) | One-Page Infographic |
-| [Project Documentation_ESTOESTA.pdf](./activity%203/Project%20Documentation_ESTOESTA.pdf) | Project Documentation Report |
-
-### 🖼️ Infographic Preview
-
-<img src="./activity%203/Infographic_ESTOESTA.png" alt="Infographic_ESTOESTA" width="700">
-
-### 📄 Project Documentation Report
-
-[📄 View Project Documentation_ESTOESTA.pdf](./activity%203/Project%20Documentation_ESTOESTA.pdf)
-
----
-
-# 📂 Repository Structure
-
-```text
-PRELIMS-ESTOESTA/
-│
-├── README.md
-│
-├── activity 1/
-│   └── ACTIVITY 1 - GE 4120_ESTOESTA.png
-│
-├── activity 2/
-│   ├── 1.png
-│   ├── 2.png
-│   ├── 3.png
-│   └── 4.png
-│
-└── activity 3/
-    ├── Infographic_ESTOESTA.png
-    └── Project Documentation_ESTOESTA.pdf
+- [One-Page Infographic](./activity%203/Infographic_ESTOESTA.png)
+- [Project Documentation Report](./activity%203/Project%20Documentation_ESTOESTA.pdf)
