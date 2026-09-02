@@ -23,9 +23,10 @@ This activity focuses on creating a promotional poster using Canva for a hypothe
 
 ### Activity 1 Output
 
-[![Activity 1 – Canva Poster](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)
+[![ACTIVITY 1 - GE 4120_ESTOESTA.png](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)
 
-**[View Activity 1 – Canva Poster](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)**
+**[ACTIVITY 1 - GE 4120_ESTOESTA.png](./activity%201/ACTIVITY%201%20-%20GE%204120_ESTOESTA.png)**
+
 
 ---
 
